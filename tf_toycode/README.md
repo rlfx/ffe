@@ -42,3 +42,8 @@ python train.py
 你也可以看看 `logs.example` 裡面輸出的樣子
 
 ![check_weight_folder](docs/check_weight_folder.gif)
+
+
+# TBD
+
+1. 還不會在 python 畫圖和操作矩陣, 所以 pre processing 和 post processing 一直不會弄 orz
